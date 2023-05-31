@@ -1,0 +1,10 @@
+{
+  "name": "basic-mysql-crud",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql2": "^3.3.2"
+  }
+}
